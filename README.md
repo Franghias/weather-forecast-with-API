@@ -41,11 +41,7 @@ cd  weather-forecast-with-API
 
 ## 🖥️ How to Use
 
-1.  **Run the main script:**
-
-```bash
-python  main.py
-```
+1.  **Run the file through Visual Studio Code or other code editor:**
   
 2.  **Follow on-screen prompts:**  
 - Choose a city by typing a number (1–5)
