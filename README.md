@@ -5,6 +5,9 @@
 
 This is a personal Python project that fetches real-time weather forecasts from the **National Weather Service (NWS)** API. The user can interactively select one of five Texas cities to view the forecast and optionally save it to a local file. The app includes user prompts via pop-ups, input validation, and error handling for a smooth user experience.
 
+This is a video where I explained how the code works and its flow: [Simple Texas Weather Forecast with API](https://angelostate.yuja.com/V/Video?v=13197984&a=19250832&isPlaying=false&startTime=0)
+
+Feel free to comment and let me know if you see any issues or if you want to contribute to this repository.
   
 ### 🛠️ Core Features
   
@@ -30,7 +33,7 @@ This is a personal Python project that fetches real-time weather forecasts from 
 ### 📦 Installation
 1.  **Clone this repository:**
 ```bash
-git  clone  https://github.com/your-username/weather-forecast-with-API.git
+git  clone https://github.com/your-username/weather-forecast-with-API.git](https://github.com/Franghias/weather-forecast-with-API.git
 
 cd  weather-forecast-with-API
 ```
@@ -129,22 +132,3 @@ The file name will be weather_forecast_Austin.txt
 Weather forecast information has been appended to weather_forecast_Austin.txt successfully.
 End of program without any issue. Thank you for using the program. :D
 ```
-
-### MIT License
----
-Copyright (c) 2025 Luan Le
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all  
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
- 
----
-  
