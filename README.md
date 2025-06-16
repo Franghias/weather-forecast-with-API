@@ -33,7 +33,7 @@ Feel free to comment and let me know if you see any issues or if you want to con
 ### 📦 Installation
 1.  **Clone this repository:**
 ```bash
-git  clone https://github.com/your-username/weather-forecast-with-API.git](https://github.com/Franghias/weather-forecast-with-API.git
+git  clone https://github.com/Franghias/weather-forecast-with-API.git
 
 cd  weather-forecast-with-API
 ```
